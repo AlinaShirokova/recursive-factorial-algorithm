@@ -16,3 +16,5 @@ Recursion solves such recursive problems by using functions that call themselves
 The approach can be applied to many types of problems, and recursion is one of the central ideas of computer science.
 
 ![1 QrQ5uFKIhK3jQSFYeRBIRg](https://github.com/AlinaShirokova/recursive-factorial-algorithm/assets/43037374/e48152f9-7ca0-4c0f-8d77-84c129984cf1)
+
+Illustration by Adit Bhargava
